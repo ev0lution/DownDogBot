@@ -8,11 +8,7 @@ client.on('ready', () => {
 client.on('message', message => {
     if (message.content === '!help') {
     	message.reply('Hello, I am DownDog, developed my @Pelex and @Ev0!');
-        
-client.on('message', message => {
-    if (message.content === '!updog'); {
-        message.replay('This command will be able to send links at a later date.');
-  	
+  	)
 });
 
 // THIS  MUST  BE  THIS  WAY
